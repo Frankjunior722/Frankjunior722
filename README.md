@@ -1,4 +1,4 @@
-## **Hi, my name is Emerie Franklin .S. 👋**
+## **Hi, my name is Emerie Franklin .S. 👋** <br></br>
 <p align="left" style="display:flex; align-items:center; gap:8px;">
 
   <a href="https://x.com/emerie_frank" target="_blank" title="X Profile">
@@ -50,6 +50,34 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 | Phishing Analysis, Threat Intelligence | Phishing Investigation Simulations |
 | Security Monitoring, Alert Triage | Security Monitoring Labs |
 | Python Automation, API Integration | Python Automation Scripts |
+
+### 🛠️ Tools & Technologies
+
+#### 🌐 Network Protocols
+<p>
+  <img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge&logo=httpie&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTPS-2CA5E0?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+#### 📊 SIEM Tools
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+#### 🕵️ Traffic & Packet Analysis
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCPDump-555555?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
+
+#### 💻 Programming & Query Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### Education 🎓
 - [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ [Federal University of Technology Owerri](https://futo.edu.ng/) (2019 - 2024)
