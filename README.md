@@ -28,9 +28,8 @@
 
 I'm currently building hands-on cybersecurity skills such as in SIEM tools, network traffic analysis, security monitoring, incident investigation, and Python/SQL automation with a strong focus on continuous learning and practical problem-solving.
 
-### Objective
-
-> Mechanical Engineering graduate transitioning into Cybersecurity, with a strong interest in SOC operations, security monitoring, and threat analysis. I'm passionate about solving complex problems, continuous technical learning, and developing practical cybersecurity skills while engaging on hands-on labs, projects, and real-world simulations.
+### Professional Statement 🛡️
+>*Driven by curiosity and problem-solving, I am a detail-oriented aspiring cybersecurity analyst with a strong interest in threat detection, security operations, and protecting digital assets. Committed to continuous learning and hands-on experience, I enjoy collaborating with diverse teams to help organizations safeguard the confidentiality, integrity, and availability of their systems against threats, risks, and vulnerabilities.*
 
 ### Currently Learning 🚀 
 - Splunk
@@ -80,11 +79,14 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 </p>
 
 ### Education 🎓
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ [Federal University of Technology Owerri](https://futo.edu.ng/) (2019 - 2024)
+- [Bachelor's Degree ](https://github.com/dayyass/bachelor-diploma)(With Honours) @ [Federal University of Technology Owerri](https://futo.edu.ng/) (2019 - 2024)
 
 ### Certifications 📜
 - [Microsoft Excel: Modern Excel for Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-eb7e46a9-87e1-49f6-9c23-f0c358330c95.pdf) @ Udemy
 - [Microsoft Power BI: The Complete Guide](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8226a7ec-acca-4bed-90fb-815a4fec38b6.pdf) @ Udemy
 
+---
 
+### 📫 Contact
 
+📧 Reach me via <a href="mailto:emeriefranklinsomto@gmail.com" title="emeriefranklinsomto@gmail.com">Email</a>
