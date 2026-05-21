@@ -55,7 +55,7 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 | Security Monitoring, Alert Triage | Security Monitoring Labs |
 | Python Automation, API Integration | Python Automation Scripts |
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies 🛠️
 
 <table>
   <tr>
