@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Frankjunior722/Frankjunior722/blob/main/Emerie%20Banner.png?raw=true" width="100%" alt="Banner"/>
+</p>
+
+
 ## **Hi, my name is Emerie Franklin .S. 👋** <br></br>
 <p align="left" style="display:flex; align-items:center; gap:8px;">
 
