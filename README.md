@@ -55,7 +55,7 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 | Security Monitoring, Alert Triage | Security Monitoring Labs |
 | Python Automation, API Integration | Python Automation Scripts |
 
-### Tools & Technologies 🛠️
+### 🛠️ Tools & Technologies
 
 <table>
   <tr>
@@ -63,36 +63,37 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 
 **🌐 Network Protocols**
 <br/>
-[![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
-[![DNS](https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![HTTP](https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge&logo=httpie&logoColor=white)](https://httpie.io/)
-[![HTTPS](https://img.shields.io/badge/HTTPS-2CA5E0?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://letsencrypt.org/)
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%234f46e5?style=plastic&logo=cisco&logoColor=white&logoWidth=25)](https://www.cisco.com/)
+[![DNS](https://img.shields.io/badge/DNS-%234f46e5?style=plastic&logo=cloudflare&logoColor=white&logoWidth=25)](https://www.cloudflare.com/)
+[![HTTP](https://img.shields.io/badge/HTTP-%234f46e5?style=plastic&logo=httpie&logoColor=white&logoWidth=25)](https://httpie.io/)
+[![HTTPS](https://img.shields.io/badge/HTTPS-%234f46e5?style=plastic&logo=letsencrypt&logoColor=white&logoWidth=25)](https://letsencrypt.org/)
 
 <br/>
 
 **📊 SIEM Tools**
 <br/>
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Google Chronicle](https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/chronicle)
+[![Splunk](https://img.shields.io/badge/Splunk-%234f46e5?style=plastic&logo=splunk&logoColor=white&logoWidth=25)](https://www.splunk.com/)
+[![Chronicle](https://img.shields.io/badge/Chronicle-%234f46e5?style=plastic&logo=googlecloud&logoColor=white&logoWidth=25)](https://cloud.google.com/chronicle)
 
 </td>
 <td valign="top" width="50%">
 
 **🕵️ Traffic & Packet Analysis**
 <br/>
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![TCPDump](https://img.shields.io/badge/TCPDump-555555?style=for-the-badge&logo=gnu&logoColor=white)](https://www.tcpdump.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-%234f46e5?style=plastic&logo=wireshark&logoColor=white&logoWidth=25)](https://www.wireshark.org/)
+[![TCPDump](https://img.shields.io/badge/TCPDump-%234f46e5?style=plastic&logo=gnu&logoColor=white&logoWidth=25)](https://www.tcpdump.org/)
 
 <br/>
 
 **💻 Programming & Query Languages**
 <br/>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-%234f46e5?style=plastic&logo=python&logoColor=white&logoWidth=25)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-%234f46e5?style=plastic&logo=postgresql&logoColor=white&logoWidth=25)](https://www.postgresql.org/)
 
 </td>
 </tr>
 </table>
+
 
 ### Education 🎓
 - [Bachelor's Degree ](https://github.com/dayyass/bachelor-diploma)(With Honours) @ [Federal University of Technology Owerri](https://futo.edu.ng/) (2019 - 2024)
@@ -106,3 +107,5 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 ### 📫 Contact
 
 📧 Reach me via <a href="mailto:emeriefranklinsomto@gmail.com" title="emeriefranklinsomto@gmail.com">Email</a>
+
+
