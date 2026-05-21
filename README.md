@@ -29,7 +29,7 @@
 </p>
 
 
-**`Aspiring SOC Analyst passionate about cybersecurity, threat detection, and protecting organizations through proactive security practices.`**
+**`Aspiring SOC Analyst passionate about cybersecurity, threat detection, and protecting organizations and people through proactive security practices.`**
 
 I'm currently building hands-on cybersecurity skills such as in SIEM tools, network traffic analysis, security monitoring, incident investigation, and Python/SQL automation with a strong focus on continuous learning and practical problem-solving.
 
