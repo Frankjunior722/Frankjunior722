@@ -34,7 +34,11 @@
 I'm currently building hands-on cybersecurity skills such as in SIEM tools, network traffic analysis, security monitoring, incident investigation, and Python/SQL automation with a strong focus on continuous learning and practical problem-solving.
 
 ### Professional Statement 🛡️
->*Driven by curiosity and problem-solving, I am a detail-oriented aspiring cybersecurity analyst with a strong interest in threat detection, security operations, and protecting digital assets. Committed to continuous learning and hands-on experience, I enjoy collaborating with diverse teams to help organizations safeguard the confidentiality, integrity, and availability of their systems against threats, risks, and vulnerabilities.*
+>*Driven by curiosity and problem-solving, I am a detail-oriented aspiring cybersecurity analyst with a strong interest in threat detection, security operations, and protecting digital assets. Committed to continuous learning and hands-on experience, I enjoy collaborating with diverse teams to help organizations and people alike safeguard the confidentiality, integrity, and availability of their systems against threats, risks, and vulnerabilities.*
+
+### Cybersecurity Journey ⚡
+
+> I'm a Mechanical Engineering graduate transitioning into cybersecurity with a strong interest and focus on SOC operations, threat detections, and digital assets protection. Passionate about building hands-on experience in SIEM tools, network traffic analysis, and incident investigation through real-world projects and continuous learning.
 
 ### Currently Learning 🚀 
 - Splunk
