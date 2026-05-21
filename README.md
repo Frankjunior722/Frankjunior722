@@ -1,7 +1,7 @@
 ## **Hi, my name is Emerie Franklin .S. 👋** <br></br>
 <p align="left" style="display:flex; align-items:center; gap:8px;">
 
-  <a href="https://x.com/emerie_frank" target="_blank" title="X Profile">
+ <a href="https://x.com/emerie_frank" target="_blank" title="X Profile"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="28" height="28"/>
   </a>
 
