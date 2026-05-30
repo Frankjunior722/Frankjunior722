@@ -58,6 +58,7 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 | Phishing Analysis, Threat Intelligence | Phishing Investigation Simulations |
 | Security Monitoring, Alert Triage | Security Monitoring Labs |
 | Python Automation, API Integration | Python Automation Scripts |
+| Security Auditing, Risk Assessment, Compliance (PCI DSS, GDPR, SOC), NIST CSF | Internal IT Audit for Botium Toys |
 
 ### Tools & Technologies 🛠️
 
