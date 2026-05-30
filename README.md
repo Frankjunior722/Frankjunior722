@@ -102,7 +102,7 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 
 ### Education & Credentials 🎓
 - **Degree:** [Bachelor of Engineering (B.Eng) in Mechanical/Automotive Engineering](https://github.com/Frankjunior722/Bachelor-s-Degree)
-- **Distinction:** First Class Honours, [Federal University of Technology, Owerri](https://futo.edu.ng/) (2019 - 2024)
+- **Distinction:** First Class Honours, Federal University of Technology, Owerri (2019 - 2024)
 
 ### Certifications 📜
 - [Microsoft Excel: Modern Excel for Data Analysis](https://udemy-certificate.s3.amazonaws.com/pdf/UC-eb7e46a9-87e1-49f6-9c23-f0c358330c95.pdf) @ Udemy
