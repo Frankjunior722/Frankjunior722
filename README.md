@@ -59,6 +59,7 @@ I'm currently building hands-on cybersecurity skills such as in SIEM tools, netw
 | Security Monitoring, Alert Triage | Security Monitoring Labs |
 | Python Automation, API Integration | Python Automation Scripts |
 | Security Auditing, Risk Assessment, Compliance (PCI DSS, GDPR, SOC), NIST CSF | [Internal IT Audit for Botium Toys](https://github.com/Frankjunior722/BotiumToyAudit) |
+| Network Traffic Analysis, Wireshark, TCP/IP Analysis, HTTP Analysis, SYN Flood Detection, Incident Response | [Network Attack Traffic Analysis with Wireshark](https://github.com/Frankjunior722/Analyze-network-attacks) |
 
 ### Tools & Technologies 🛠️
 
